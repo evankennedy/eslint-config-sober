@@ -1,0 +1,31 @@
+{
+	"name": "eslint-config-sober",
+	"version": "1.0.0",
+	"description": "When you wake up and think, holy sh*t, what have I been doing with my life?",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/evankennedy/eslint-config-sober.git"
+	},
+	"keywords": [
+		"code",
+		"quality",
+		"style",
+		"lint",
+		"linter",
+		"eslint",
+		"validate"
+	],
+	"author": "Evan Kennedy",
+	"bugs": {
+		"url": "https://github.com/evankennedy/eslint-config-sober/issues"
+	},
+	"homepage": "https://github.com/evankennedy/eslint-config-sober#readme",
+	"devDependencies": {
+		"chalk": "^2.4.2",
+		"eslint": "5.12.0",
+		"eslint-config-airbnb": "^17.1.0",
+		"eslint-config-sober": "file:.",
+		"eslint-plugin-import": "^2.17.1"
+	}
+}
