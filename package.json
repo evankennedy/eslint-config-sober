@@ -3,6 +3,9 @@
 	"version": "1.0.0",
 	"description": "When you wake up and think, holy sh*t, what have I been doing with my life?",
 	"main": "index.js",
+	"scripts": {
+		"test": "node test.js"
+	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/evankennedy/eslint-config-sober.git"
